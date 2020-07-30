@@ -44,36 +44,35 @@ This is a Deep learning model, which uses LSTM and is implemented through Tensor
 
    "I miss you"
    
+
     I miss you when the lights go out 
     from the rest who is standing there 
-    yeah uh i will sustain 
-    close down in your eyes 
+    i will sustain 
+    closing down in your eyes 
     i see through the dark of your body 
     strikes a extra road outta lights
-    know something in the whole block on her name 
-    i can't go back but the reeds are growing out of my fingertips 
-    hall on the ground more than something slow oh tun hour band jump in the flames are lay across their minds 
-    most squeezin' in coincidence 
-    lancashire gats penny lane and the floor boils 
-    i'll find someone to find you up my head
+    know something the whole block on her name 
+    i can't go back to the same old lane
+    How could you come be true 
+    i was wrong
+    oh maybe i was burned but i called it a lesson learned
+    i see your head don't do about you 
+    darlin' i'll find someone to find you up my head
 
 
   ### Example 2
-  
-
- "How could you" -
-
-
-    How could you come be true i was wrong 
-    oh maybe i was burned but i called it a lesson learned 
-    i see your head don't do about you 
-    darlin' gonna give me a flame let me photograph you 
-
-    in this morning ain't gonna be me in my wall
-    mj taught me to make a fool out of you 
-    lost their moments straight up and the bath me in my throat 
-    back once in the middle of the ground 
-    train uh birthday and lonesome road adds up to take me open off the street 
-
  
-  
+
+   "I will see you"
+
+    I will see you out of control 
+    don't you leave me thinking of me feeling this way i'm leaving myself 
+    i wish i could lay down beside you 
+    you see the way you look at me now 
+    i'll be standing right next to you yeah yeah yeah yeah 
+    closed there ain't nothing here for me 
+    i'm full of mud on the wall sitting there 
+    it is just you and i can't help myself from shining like a rocket that takes off the lights 
+    lay me down pour it up pour it up pour it up all night on my soul
+
+
