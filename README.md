@@ -18,7 +18,7 @@ This is a Deep learning model, which uses LSTM and is implemented through Tensor
 
   The first layer of the model is the Embedding layer that vectorizes the input words and holds them into clusters of similar-meaning words. Next,The model uses 2 layers of LSTM. The first layer is Bidirectional Model having 256 nodes with a dropout of 0.2 and the other LSTM layer has 128 nodes. Next we have 2 dense layers having nodes equal to (total_number_of_words/2) and (total_number_of_words) respectively. Below is the summary of the model:
   
-  '''
+  
   
       Layer (type)                 Output Shape              Param #   
       =================================================================
@@ -34,6 +34,6 @@ This is a Deep learning model, which uses LSTM and is implemented through Tensor
       _________________________________________________________________
       dense_1 (Dense)              (None, 7634)              29146612  
       =================================================================
-  '''
+ 
   
   
